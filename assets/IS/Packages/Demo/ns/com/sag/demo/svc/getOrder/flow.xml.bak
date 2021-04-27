@@ -363,6 +363,7 @@
     <value name="is_public">false</value>
     <value name="field_type">recref</value>
     <value name="field_dim">0</value>
+    <value name="wrapper_type">IData</value>
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
@@ -377,6 +378,7 @@
         <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="field_xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
         <value name="form_qualified">false</value>
@@ -393,6 +395,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -817,6 +820,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -832,6 +836,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2396,6 +2401,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2592,7 +2598,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">Manage123!@#</value>
+  <value name="xml">manage</value>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
     <value name="node_subtype">unknown</value>
@@ -2689,6 +2695,7 @@
         <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="field_xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
         <value name="form_qualified">false</value>
@@ -2705,6 +2712,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2817,6 +2825,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2886,6 +2895,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2944,6 +2954,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2986,6 +2997,7 @@
     <value name="is_public">false</value>
     <value name="field_type">recref</value>
     <value name="field_dim">0</value>
+    <value name="wrapper_type">IData</value>
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
@@ -3000,6 +3012,7 @@
         <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="field_xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
         <value name="form_qualified">false</value>
@@ -3016,6 +3029,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -3255,6 +3269,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -3324,6 +3339,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -7002,6 +7018,7 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
+        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
