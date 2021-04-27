@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">com.sag.demo.adapter.ExtApp.ExtAppSOAPAPI_.docTypes:docTypeRef_tns_getCustomerDataResponse</value>
+    <value name="node_pkg">Demo</value>
+    <value name="is_public">false</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <value name="schemaDomain">b5d8b1b2d8814de2854e067bc5454c5a</value>
+    <value name="docTypeDomain">308604fbab4e4354b904847a20071867</value>
+    <value name="originURI">http://localhost:5555/ws/business.app.api.ws:Customer?WSDL</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">record</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">customerData</value>
+        <value name="field_type">recref</value>
+        <value name="field_dim">0</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+        <value name="rec_closed">true</value>
+        <value name="modifiable">true</value>
+        <value name="rec_ref">com.sag.demo.adapter.ExtApp.ExtAppSOAPAPI_.docTypes:docTypeRef_tns_customerData</value>
+      </record>
+    </array>
+    <record name="schemaType" javaclass="com.wm.util.Values">
+      <value name="xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
+      <value name="ncName">getCustomerDataResponse</value>
+    </record>
+    <value name="schemaRegistered">true</value>
+    <value name="modifiable">false</value>
+  </record>
+</Values>

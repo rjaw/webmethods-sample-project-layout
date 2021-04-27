@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="listeners" javaclass="com.wm.util.Values">
+    <record name="FTPListener@11005" javaclass="com.wm.util.Values">
+      <number name="port" type="Integer">11005</number>
+      <value name="protocol">FTP</value>
+      <value name="pkg">Demo</value>
+      <value name="enabled">false</value>
+      <value name="key">FTPListener@11005</value>
+      <value name="uniqueID">5d10cd141d7b4c3c88a2edab601f6081</value>
+      <value name="portAlias">FTP_11005</value>
+      <value name="portDescription">Integration Server FTP port: 11005</value>
+      <value name="factoryKey">webMethods/FTP</value>
+      <value name="configURL">/WmRoot/configFTP.dsp</value>
+      <value name="provider">webMethods</value>
+      <value name="pasvAddr"></value>
+    </record>
+  </record>
+  <record name="access" javaclass="com.wm.util.Values">
+    <record name="FTPListener@11005" javaclass="com.wm.util.Values">
+      <null name="home"/>
+      <value name="default">include</value>
+      <record name="nodes" javaclass="com.wm.util.StringSet">
+        <list name="elements">
+        </list>
+      </record>
+      <value name="key">FTPListener@11005</value>
+    </record>
+  </record>
+</Values>
