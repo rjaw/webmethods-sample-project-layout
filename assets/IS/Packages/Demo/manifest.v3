@@ -10,4 +10,11 @@
   <null name="requires"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
+  <value name="name">Demo</value>
+  <value name="build">1.0.17</value>
+  <null name="description"/>
+  <value name="time">2021-04-28 11:49:58 MESZ</value>
+  <value name="jvm_version">1.8.0_261</value>
+  <value name="publisher">daehpresal52331.daedmz.loc</value>
+  <value name="patch_nums"></value>
 </Values>

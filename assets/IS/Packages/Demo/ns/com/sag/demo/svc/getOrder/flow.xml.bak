@@ -363,7 +363,6 @@
     <value name="is_public">false</value>
     <value name="field_type">recref</value>
     <value name="field_dim">0</value>
-    <value name="wrapper_type">IData</value>
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
@@ -378,7 +377,6 @@
         <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="field_xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
         <value name="form_qualified">false</value>
@@ -395,7 +393,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -820,7 +817,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -836,7 +832,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2401,7 +2396,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2695,7 +2689,6 @@
         <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="field_xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
         <value name="form_qualified">false</value>
@@ -2712,7 +2705,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2825,7 +2817,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2895,7 +2886,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2954,7 +2944,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -2997,7 +2986,6 @@
     <value name="is_public">false</value>
     <value name="field_type">recref</value>
     <value name="field_dim">0</value>
-    <value name="wrapper_type">IData</value>
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
@@ -3012,7 +3000,6 @@
         <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="field_xmlns">http://daeipresal33349.eur.ad.sag/business.app.api.ws:Customer</value>
         <value name="form_qualified">false</value>
@@ -3029,7 +3016,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -3269,7 +3255,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -3339,7 +3324,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -7018,7 +7002,6 @@
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="field_opt">true</value>
-        <value name="wrapper_type">IData</value>
         <value name="nillable">false</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
@@ -7124,8 +7107,4 @@
 </MAPDELETE>
 </MAP>
 </INVOKE>
-
-<MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
-</MAP>
 </FLOW>
